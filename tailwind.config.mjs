@@ -11,6 +11,15 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        sans: ["Helvetica", "Arial", "sans-serif"],
+        Allura: ["Allura", "cursive"],
+        OpenSans: ["Open Sans", "cursive"],
+      },
+      backgroundImage: {
+        'candle-wallpaper': "url('/Twist.jpg')",
+        'tree-wallpaper': "url('/Tree_twist.jpg')",
+      },
     },
   },
   plugins: [],
